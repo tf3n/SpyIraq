@@ -1,0 +1,128 @@
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.exe.config
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.exe
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.pdb
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.xml
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\bin\Release\WinMM.Net.dll
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.About.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.AccountManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.AddNumber.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.AngelAndroidForm.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Applications.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Build.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.CallsManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.CameraManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.ContactsManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Download.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Editor.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.EditSocket.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.FileManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Icons.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.ImageViewer.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.information.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.inp.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.LocationManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Microphone.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Resources.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Ports.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Report.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Settings.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.ShellTerminal.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.SMSManager.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.TextMessage.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.Upload.resources
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.CopyComplete
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.exe
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.xml
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.pdb
+C:\Users\scream\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbprojAssemblyReference.cache
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.exe.config
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.exe
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.pdb
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.xml
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\bin\Release\WinMM.Net.dll
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.About.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AccountManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AddNumber.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AngelAndroidForm.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Applications.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AppsProperties.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Build.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.CallPhone.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.CallsManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.CameraManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Color_Box0.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ContactsManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Download.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Editor.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.EditSocket.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.FileManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Icons.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ImageViewer.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.information.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.inp.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Keylogger.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.LocationManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Microphone.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Resources.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Ports.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Report.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Settings.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.SMSManager.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.TextMessage.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Upload.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Win_Users.resources
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.CopyComplete
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.exe
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.xml
+C:\Users\GAMER\Desktop\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.pdb
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.exe.config
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.exe
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.pdb
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\bin\Release\Spy MAX.xml
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\bin\Release\WinMM.Net.dll
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbprojAssemblyReference.cache
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.About.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AccountManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AddNumber.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AngelAndroidForm.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Applications.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.AppsProperties.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Build.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.CallPhone.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.CallsManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.CameraManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ClipboardManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Color_Box0.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ContactsManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Download.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Editor.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.EditSocket.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.FileManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Icons.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ImageViewer.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.information.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.inp.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Keylogger.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.LocationManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Microphone.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Resources.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Ports.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Report.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Settings.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.ShellTerminal.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.SMSManager.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.TextMessage.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Upload.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid_v2.Win_Users.resources
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.GenerateResource.cache
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.CoreCompileInputs.cache
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\AngelAndroid.vbproj.CopyComplete
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.exe
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.xml
+C:\Users\Ali Muhannad\Desktop\TecSpy\Spy MAX v2.0\AngelAndroid\AngelAndroid\obj\Release\Spy MAX.pdb

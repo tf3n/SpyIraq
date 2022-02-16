@@ -1,0 +1,5 @@
+C:\Users\scream\Desktop\LibGSM\LibGSM\bin\Release\LibGSM.dll
+C:\Users\scream\Desktop\LibGSM\LibGSM\bin\Release\LibGSM.pdb
+C:\Users\scream\Desktop\LibGSM\LibGSM\obj\Release\LibGSM.csproj.CoreCompileInputs.cache
+C:\Users\scream\Desktop\LibGSM\LibGSM\obj\Release\LibGSM.dll
+C:\Users\scream\Desktop\LibGSM\LibGSM\obj\Release\LibGSM.pdb

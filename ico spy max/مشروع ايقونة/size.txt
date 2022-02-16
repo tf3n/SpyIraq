@@ -1,0 +1,10 @@
+
+256 × 256 (16.8mil colors) - Ordinal name: 1
+48 × 48 (16.8mil colors) - Ordinal name: 2
+32 × 32 (16.8mil colors) - Ordinal name: 3
+24 × 24 (16.8mil colors) - Ordinal name: 4
+16 × 16 (16.8mil colors) - Ordinal name: 5
+
+
+
+---------------

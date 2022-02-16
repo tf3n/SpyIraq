@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    defaultConfig {
+        flavorDimensions "payload"
+        applicationId "spymax.stub7"
+        minSdkVersion 21
+        //noinspection ExpiredTargetSdkVersion
+        targetSdkVersion 22
+        versionCode 1
+        versionName "@string/h1h2h3h4h5h6"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+
+    }
+    productFlavors {
+        payload{
+            applicationIdSuffix ".suffix"
+        }
+    }
+
+}
+
+
+
+
+
+
+

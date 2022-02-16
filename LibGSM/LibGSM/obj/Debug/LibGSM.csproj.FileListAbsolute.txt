@@ -1,0 +1,11 @@
+C:\Users\GAMER\Desktop\LibGSM\LibGSM\bin\Debug\LibGSM.dll
+C:\Users\GAMER\Desktop\LibGSM\LibGSM\bin\Debug\LibGSM.pdb
+C:\Users\GAMER\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.csprojAssemblyReference.cache
+C:\Users\GAMER\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.dll
+C:\Users\GAMER\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.pdb
+C:\Users\scream\Desktop\LibGSM\LibGSM\bin\Debug\LibGSM.dll
+C:\Users\scream\Desktop\LibGSM\LibGSM\bin\Debug\LibGSM.pdb
+C:\Users\scream\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.csproj.CoreCompileInputs.cache
+C:\Users\scream\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.dll
+C:\Users\scream\Desktop\LibGSM\LibGSM\obj\Debug\LibGSM.pdb

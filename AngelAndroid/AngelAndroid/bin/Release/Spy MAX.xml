@@ -1,0 +1,67 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Spy MAX
+</name>
+</assembly>
+<members>
+<member name="T:AngelAndroid_v2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.logo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.map">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta charset=&apos;utf-8&apos; /&gt;
+&lt;title&gt;\\name_victim:\\&lt;/title&gt;
+&lt;meta name=&apos;viewport&apos; content=&apos;initial-scale=1,maximum-scale=1,user-scalable=no&apos; /&gt;
+&lt;script src=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js&apos;&gt;&lt;/script&gt;
+&lt;link href=&apos;https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css&apos; rel=&apos;stylesheet&apos; /&gt;
+&lt;style&gt;
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+ 
+&lt;div id=&apos;map&apos;&gt;&lt;/div&gt;
+  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.max">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:AngelAndroid_v2.My.Resources.Resources.wallpaper">
+<summary>
+  Looks up a localized string similar to /9j/4QN0RXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAcAAAAcgEyAAIAAAAUAAAAjodpAAQAAAABAAAApAAAANAADqZ4AAAnEAAOpngAACcQQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzADIwMTc6MTA6MTMgMDE6NDM6MDcAAAAAA6ABAAMAAAAB//8AAKACAAQAAAABAAAAMKADAAQAAAABAAAAMAAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEAAgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAAI+AAAAAAAAAEgAAAABAAAASAAAAAH/2P/tAAxBZG9iZV9DTQAC/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBELCgsRFQ8MDA8VGBMTFRMTGBEMDAwM [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

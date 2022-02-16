@@ -1,0 +1,15 @@
+<resources>
+    <string name="j1j2j3j4j5j6">[SPY_MAX_IP]</string>
+    <string name="c1c2c3c4c5c6">[SPY_MAX_PORT]</string>
+    <string name="z1z2z3z4z5z6">[SPY_MAX_NAME_VICTIM]</string>
+    <string name="f1f2f3f4f5f6">[SPY_MAX_NAME_PATCH]</string>
+    <string name="h1h2h3h4h5h6">[SPY_MAX_NAME_VERSION]</string>
+    <string name="t1t2t3t4t5t6">[SPY_MAX_PROPERTY]</string>
+    <string name="n1n2n3n4n5n6">[SPY_MAX_SLEEP]</string>
+    <string name="i1i2i3i4i5i6">[SPY_MAX_FUT0EX]</string>
+    <string name="k1k2k3k4k5k6">[SPY_MAX_FUT1EX]</string>
+    <string name="o1o2o3o4o5o6">[SPY_MAX_FUT2EX]</string>
+    <string name="u1u2u3u4u5u6">[SPY_MAX_FUT3EX]</string>
+    <string name="e1e2e3e4e5e6">[SPY_MAX_BIND]</string>
+    <string name="y1y2y3y4y5y6">[SPY_MAX_INTENT]</string>
+</resources>
