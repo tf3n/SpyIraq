@@ -1,4 +1,4 @@
-![alt text](https://github.com/tf3n/SpyIraq/blob/main/logo2.png?raw=true)
+<img src="https://github.com/tf3n/SpyIraq/blob/main/logo2.png?raw=true" alt="drawing" width="200"/>
 
 # SpyIraq
 Speical Edition version of spymax, edited by Ali Muhannad.
